@@ -5,6 +5,8 @@
 
 ## STACK
 ![VS Code](https://img.shields.io/badge/Vue%20Js-Javascript-green)
+![VS Code](https://img.shields.io/badge/Laravel-Php-green)
+
 
 <!---
 kanok-bs/kanok-bs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
