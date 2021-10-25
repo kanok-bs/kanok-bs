@@ -11,7 +11,6 @@
 ![VS Code](https://img.shields.io/badge/MYSQL-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/AWS-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/DIGITAL%20OCEAN-%20-brightgreen)
-
 ![VS Code](https://img.shields.io/badge/Laravel-Php-green)<br />
 ![VS Code](https://img.shields.io/badge/ES6-%20-green)
 ![VS Code](https://img.shields.io/badge/Livewire-%20-brightgreen)
