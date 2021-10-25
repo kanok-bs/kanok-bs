@@ -18,7 +18,7 @@
 ![VS Code](https://img.shields.io/badge/ES6-%20-green)
 ![VS Code](https://img.shields.io/badge/Livewire-%20-brightgreen)
 
-## SOFTWARE DESIGN PATTERN
+## DESIGN PATTERN I FOLLOW
 ![VS Code](https://img.shields.io/badge/SOLID-%20-brightgreen)
 
 
