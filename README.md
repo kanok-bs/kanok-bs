@@ -6,6 +6,7 @@
 ## STACK
 ![VS Code](https://img.shields.io/badge/Vue%20Js-Javascript-green)
 ![VS Code](https://img.shields.io/badge/NUXT%20JS-%20-brightgreen)
+![VS Code](https://img.shields.io/badge/REST%20API-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/Laravel-Php-green)<br />
 ![VS Code](https://img.shields.io/badge/ES6-%20-green)
 ![VS Code](https://img.shields.io/badge/Livewire-%20-brightgreen)
