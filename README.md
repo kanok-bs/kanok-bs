@@ -5,7 +5,9 @@
 
 ## STACK
 ![VS Code](https://img.shields.io/badge/Vue%20Js-Javascript-green)
-![VS Code](https://img.shields.io/badge/Laravel-Php-green)
+![VS Code](https://img.shields.io/badge/Laravel-Php-green)<br />
+![VS Code](https://img.shields.io/badge/ES6-%20-green)
+
 
 
 <!---
