@@ -5,7 +5,7 @@
 ## IDE 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-## STACK I HAVE USED
+## STACK I HAVE MOST USED
 ![VS Code](https://img.shields.io/badge/Vue%20Js-Javascript-green)
 ![VS Code](https://img.shields.io/badge/NUXT%20JS-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/Angular%20JS-%20-brightgreen)
