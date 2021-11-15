@@ -1,4 +1,4 @@
-👋 Hi, I’m Md Knaok Hossain, I have been working professionally as a software developer since Nov 2018. For last two and more than half years (+2.11), I have been working as the full-stack developer at multiple projects. Interestingly, for last almost three years I have been working with “Vue Js and Laravel” for frontend and backend. 
+👋 Hi, I’m Md Knaok Hossain, I have been working professionally as a software developer since Nov 2018. For last two and more than half years (+3), I have been working as the full-stack developer at multiple projects. Interestingly, for last almost three years I have been working with “Vue Js and Laravel” for frontend and backend. 
 
 ![Gmail](https://img.shields.io/badge/-kanokhossain.se@gmail.com-EA4335?style=flat-square&logoColor=black&logo=mail.ru&link=kanokhossain.se@gmail.com)
 
