@@ -1,4 +1,4 @@
-👋 Hi, I’m Md Knaok Hossain, I have been working professionally as a software developer since Nov 2018. For last (+3) years, I have been working as the full-stack developer at multiple projects. Interestingly, for last almost three years I have been working with “Vue Js 2/3, Nuxt js, vite and Laravel” for frontend and backend. 
+👋 Hi, I’m Md Knaok Hossain, I have been working professionally as a software developer since Nov 2018. For last (+3) years, I have been working at multiple projects. Interestingly, for last almost three years I have been working with “Vue Js 2/3, Nuxt js, vite and Laravel” for frontend and backend. 
 
 
 
