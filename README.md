@@ -18,7 +18,7 @@
 ![VS Code](https://img.shields.io/badge/SOLID-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/DRY-%20-brightgreen)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=kanok-bs&show_icons=true&include_all_commits=true&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=kanok-bs&&hide=stars,prs,issues,contribs&show_icons=true&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanok-bs&layout=compact)]
 
