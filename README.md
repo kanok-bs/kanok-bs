@@ -5,7 +5,7 @@
 ## IDE 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-## STACK I HAVE MOST USED
+## STACK
 ![VS Code](https://img.shields.io/badge/Vue%20Js-Javascript-green)
 ![VS Code](https://img.shields.io/badge/NUXT%20JS-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/Angular%20JS-%20-brightgreen)
@@ -17,7 +17,7 @@
 ![VS Code](https://img.shields.io/badge/Laravel-Php-green)<br />
 ![VS Code](https://img.shields.io/badge/ES6-%20-green)
 ![VS Code](https://img.shields.io/badge/Livewire-%20-brightgreen)
-## DESIGN PATTERN I FOLLOW
+## DESIGN PATTERN 
 ![VS Code](https://img.shields.io/badge/SOLID-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/DRY-%20-brightgreen)
 
