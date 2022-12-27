@@ -25,8 +25,10 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![github stats](https://github-readme-stats.vercel.app/api?username=kanok-bs&hide=issues&show_icons=true&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanok-bs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanok-bs&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanok-bs&layout=compact)]
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true) -->
 
 ![](https://komarev.com/ghpvc/?username=kanok-bs&label=PROFILE+VIEWS)
 
