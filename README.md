@@ -1,7 +1,4 @@
 👋 Hi, I’m Md Knaok Hossain, I have been working professionally as a software developer since Nov 2018. For last (+4) years, I have been working at multiple projects. Interestingly, for last almost four years I have been working with “Vue Js 2/3, Nuxt js, vite and Laravel” for frontend and backend. 
-
-
-
 ## IDE 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
