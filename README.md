@@ -17,18 +17,14 @@
 ![VS Code](https://img.shields.io/badge/Laravel-Php-green)<br />
 ![VS Code](https://img.shields.io/badge/ES6-%20-green)
 ![VS Code](https://img.shields.io/badge/Livewire-%20-brightgreen)
-
 ## DESIGN PATTERN I FOLLOW
 ![VS Code](https://img.shields.io/badge/SOLID-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/DRY-%20-brightgreen)
 
-
-## 𝗦𝘁𝗮𝘁𝘀
 ![github stats](https://github-readme-stats.vercel.app/api?username=kanok-bs&show_icons=true&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanok-bs&layout=compact)]
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true) -->
 
 ![](https://komarev.com/ghpvc/?username=kanok-bs&label=PROFILE+VIEWS)
 
