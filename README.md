@@ -9,7 +9,7 @@ I'm a professional software developer with over +4.11 years of experience, speci
 ## 🛠️ Stack
 
 ### Front-end:
-- Vue.js 2/3
+- Vue.js 
 - Nuxt.js
 - Vite
   
@@ -25,8 +25,15 @@ I'm a professional software developer with over +4.11 years of experience, speci
 - ES6
 - Livewire
 
-## 📚 Design Patterns
+## 📦 JavaScript Packages
 
+I have experience in creating JavaScript packages using vue-sfc-rollup.
+
+## 🧰 Monorepo Management
+
+Proficient in managing monorepos using Lerna.
+
+## 📚 Design Patterns
 - SOLID
 - DRY (Don't Repeat Yourself)
 - ATOMIC
@@ -47,12 +54,6 @@ I'm an Agile enthusiast and an expert Scrum Master. I prioritize communication, 
 
 ### 📊 Real-time & More
 🌐 For real-time capabilities, I rely on **Firebase**. 📩
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanok-bs&layout=compact)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kanok-bs&label=PROFILE+VIEWS)
 
 ## 📞 Let's Connect!
 
