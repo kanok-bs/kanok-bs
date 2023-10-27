@@ -39,6 +39,15 @@ I'm a professional software developer with over +4.11 years of experience, speci
 
 I'm an Agile enthusiast and an expert Scrum Master. I prioritize communication, transparency, and collaboration in every project.
 
+### 🛠️ Tools I Use
+
+- **Project Management:** JIRA, Trello
+- **Version Control:** GIT
+- **Collaboration:** Retro for retrospectives
+
+### 📊 Real-time & More
+🌐 For real-time capabilities, I rely on **Firebase**. 📩
+
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanok-bs&layout=compact)
