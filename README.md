@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Md Kanok Hossain!
 
-I'm a professional software developer with over +6 years of experience, specializing in front-end and back-end web development. I'm passionate about building modern web applications and have expertise in a variety of technologies.
+I'm a professional software Engineer with over +6 years of experience, specializing in front-end and back-end web development. I'm passionate about building modern web applications and have expertise in a variety of technologies.
 
 ## 💻 IDE
 
