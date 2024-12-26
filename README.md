@@ -12,9 +12,11 @@ I'm a professional software developer with over +6 years of experience, speciali
 - Vue.js 
 - Nuxt.js
 - Vite
+- React(practitioner)
   
 ### Back-end:
 - Laravel (PHP)
+- Django (Paython)-(practitioner)
 
 ### Other Tools and Technologies:
 - REST API
@@ -44,7 +46,7 @@ Proficient in managing monorepos using Lerna.
 
 ### 🚀 Agile Advocate
 
-I'm an Agile enthusiast and an expert Scrum Master. I prioritize communication, transparency, and collaboration in every project.
+I'm an Agile enthusiast and an expert Certified Scrum Master. I prioritize communication, transparency, and collaboration in every project.
 
 ### 🛠️ Tools I Use
 
