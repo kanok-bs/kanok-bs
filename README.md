@@ -13,6 +13,7 @@ I'm a professional software Engineer with over +6 years of experience, specializ
 - Nuxt.js
 - Vite
 - React(practitioner)
+- Next.js(practitioner)
   
 ### Back-end:
 - Laravel (PHP)
