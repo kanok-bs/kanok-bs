@@ -1,6 +1,9 @@
 # 👋 Hello, I'm Md Kanok Hossain!
 
-I'm a professional software Engineer with over +6 years of experience, specializing in front-end and back-end web development. I'm passionate about building modern web applications and have expertise in a variety of technologies.
+I’m an engineer focused on delivering scalable and innovative web solutions. I enjoy designing and building complex systems, optimizing performance, and creating seamless architectures that work across both backend and frontend. My experience also includes managing servers, ensuring smooth deployment, configuration, and maintenance across different environments. I believe in strong teamwork and work closely with stakeholders and teams to align technology with business goals.
+
+I’m always eager to learn and adapt, especially in fast-paced environments where problem-solving and flexibility are key. With a solid understanding of agile methodologies, I aim to leverage new technologies to build solutions that meet the needs of the market and deliver a great experience for users.
+
 
 ## 💻 IDE
 
