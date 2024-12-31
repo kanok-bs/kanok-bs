@@ -19,6 +19,9 @@ I'm a professional software Engineer with over +6 years of experience, specializ
 - Laravel (PHP)
 - Django (Paython)-(practitioner)
 
+## Cloud
+ - Aws practitioner
+
 ### Other Tools and Technologies:
 - REST API
 - Swagger
