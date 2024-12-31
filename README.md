@@ -12,12 +12,12 @@ I'm a professional software Engineer with over +6 years of experience, specializ
 - Vue.js 
 - Nuxt.js
 - Vite
-- React(practitioner)
-- Next.js(practitioner)
+- React ✍️
+- Next.js ✍️
   
 ### Back-end:
 - Laravel (PHP)
-- Django (Paython)-(practitioner)
+- Django (Paython) ✍️
 
 ### Other Tools and Technologies:
 - REST API
