@@ -17,7 +17,7 @@ I'm a professional software Engineer with over +6 years of experience, specializ
   
 ### Back-end:
 - Laravel (PHP)
-- Django (Paython) ✍️
+- Paython (Django) ✍️
 
 ### Other Tools and Technologies:
 - REST API
