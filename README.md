@@ -58,9 +58,6 @@ I'm an Agile enthusiast and an expert Certified Scrum Master. I prioritize commu
 - **Version Control:** GIT
 - **Collaboration:** Retro for retrospectives
 
-### 📊 Real-time & More
-🌐 For real-time capabilities, I rely on **Firebase**. 📩
-
 ## 📞 Let's Connect!
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/md-kanok-hossain-442594139).
