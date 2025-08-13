@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Md Kanok Hossain!
 
-I’m an engineer focused on delivering scalable and innovative web solutions. I enjoy designing and building complex systems, optimizing performance, and creating seamless architectures that work across both backend and frontend. My experience also includes managing servers, ensuring smooth deployment, configuration, and maintenance across different environments. I believe in strong teamwork and work closely with stakeholders and teams to align technology with business goals.
-
-I’m always eager to learn and adapt, especially in fast-paced environments where problem-solving and flexibility are key. With a solid understanding of agile methodologies, I aim to leverage new technologies to build solutions that meet the needs of the market and deliver a great experience for users.
+Software Architect & Lead Engineer, leveraging almost 7 years of experience in full-stack, AI-driven, and test-driven development. Skilled in scalable system design, clean architecture, and agile delivery. Certified Scrum Master with multiple technical and leadership certifications, including ACMP (IBA). Dedicated to building future-proof, high-quality software solutions.
 
 
 ## 📚 Design Patterns
