@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Md Kanok Hossain!
+# 👋 Hello, I'm Md. Kanok Hossain!
 
 Software Architect & Lead Engineer, leveraging almost 7 years of experience in full-stack, AI-driven, and test-driven development. Skilled in scalable system design, clean architecture, and agile delivery. Certified Scrum Master with multiple technical and leadership certifications, including ACMP (IBA). Dedicated to building future-proof, high-quality software solutions.
 
